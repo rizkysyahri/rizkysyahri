@@ -30,4 +30,4 @@ Web Developer and Programming Enthusiast
 
 =========================================================================================================================================
 
-![https://github-readme-stats.vercel.app/api?username=rizkysyahri&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues)
+![https://github-readme-stats.vercel.app/api?username=rizkysyahri&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=rizkysyahri&hide=contribs,prs,issues)
