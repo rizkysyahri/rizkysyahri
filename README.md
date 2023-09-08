@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rizky Syahri
-====================================================================================================================================
+![https://github-readme-stats.vercel.app/api?username=rizkysyahri&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=rizkysyahri&hide=contribs,prs,issues)
 
-Web Developer and Programming Enthusiast
-----------------------------------------
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/rizkysyahri/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/syahrrrh/)
 
-* 🌍  I'm based in Jakarta
-* ✉️  You can contact me at [ramadhancai@gmail.com](mailto:ramadhancai@gmail.com)
-* 🧠  I'm learning everything Javascript
+Hello there 👋,
 
-### Skills
+I am a software engineer. I always try to be honest and kind to others. I am to improve at what I can do and am always looking for something new to learn and improve.
 
+---
+
+Here's a list of my tech stack and skills:
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,8 +23,7 @@ Web Developer and Programming Enthusiast
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+Check out some of the things I've built!
 
-### Socials
-
-<p align="left"> <a href="http://www.instagram.com/syahrrrh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rizkysyahri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- [Yekkomerce (ongoing, staging version)](https://yekommerce.vercel.app/)
 
